@@ -1,0 +1,58 @@
+1.Web development is a broad term for the work involved in developing a web site for the Internet (World Wide Web)
+ or an intranet (a private network). Web development can range from developing the simplest static single page of 
+ plain text to the most complex web-based internet applications, electronic businesses, and social network services.
+
+2.A web browser (commonly referred to as a browser) is a software application for retrieving, presenting and traversing information 
+ resources on the World Wide Web.
+ 
+3.actually calling up a list of requests to get content from various resource directories or servers on which the content 
+ for that page is stored. It is rather like a recipe for a cake - you have a shopping list of ingredients (requests for content)
+ that when combined in the correct order bakes a cake (the web page).The page maybe made up from content from different sources.
+ 
+4.A server is a running instance of an application (software) capable of accepting requests from the client and giving responses accordingly.
+
+5.The basic function of a server is to listen in on a port for incoming network requests, and a good demonstration of this is the interaction
+ between a Web server and browser. Although to a user the process is instantaneous, or nearly so, when he clicks a link while surfing the Web,
+ several things are taking place behind the scenes: the request for the Web page is transmitted to the corresponding Web server, the server 
+ fetches and assembles the Web page and retransmits it using a protocol like HTTP, and, finally, the user's browser receives the data, 
+ converts it, and displays the page to him.
+
+6.The World Wide Web (www, W3) is an information system of interlinked hypertext documents that are accessed via the Internet and built on
+ top of the Domain Name System.[1] It has also commonly become known simply as the Web. Individual document pages on the World Wide Web are 
+ called web pages and are accessed with a software application running on the user's computer, commonly called a web browser.
+ 
+7.HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages.[1] It is written in the
+ form of HTML elements consisting of tags enclosed in angle brackets (like <html>). HTML tags most commonly come in pairs like <h1> and </h1>, 
+ although some represent empty elements and so are unpaired, for example <img>. 
+ 
+8.Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language.
+ While most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind 
+ of XML document, including plain XML, SVG and XUL.
+ 
+10.a dynamic programming language.[5] It is most commonly used as part of web browsers, whose implementations allow client-side scripts 
+to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.[5] It 
+is also used in server-side network programming with runtime environments such as Node.js, game development and the creation of 
+desktop and mobile applications.
+
+11.The Internet is a global system of interconnected computer networks that use the standard Internet protocol suite (TCP/IP) to 
+link several billion devices worldwide. It is a network of networks[1] that consists of millions of private, public, academic,
+ business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical 
+ networking technologies. 
+ 
+12.A uniform resource locator (URL) is a reference to a resource that specifies the location of the resource on a computer network
+ and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI)
+ 
+13.a uniform resource identifier (URI) is a string of characters used to identify a name of a resource. Such identification enables
+ interaction with representations of the resource over a network, typically the World Wide Web, using specific protocols.
+ 
+14.Wi-Fi (or WiFi) is a local area wireless computer networking technology that allows electronic devices to network
+
+15.HTTP or Hypertext Transfer Protocol is the main protocol of the World Wide Web. When you request a web page by typing its 
+address into your web browser, that request is sent using HTTP. The browser is an HTTP client, and the web page server is 
+(unsurprisingly) an HTTP server.
+
+16. HyperText Transfer Protocol Secure
+ File Transfer Protocol 
+ Secure Sockets Layer
+ Transport Layer Security
+ 
